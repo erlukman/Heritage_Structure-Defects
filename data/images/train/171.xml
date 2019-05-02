@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>171.jpg</filename>
+	<path>D:\PhD\My Research\Research Performance Seminar-II\Data\1\171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>251</ymin>
+			<xmax>636</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

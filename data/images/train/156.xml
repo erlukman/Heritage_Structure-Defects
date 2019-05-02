@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>156.jpg</filename>
+	<path>D:\PhD\My Research\Research Performance Seminar-II\Data\1\156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Exposed Bricks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>318</ymin>
+			<xmax>721</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Exposed Bricks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>30</ymin>
+			<xmax>791</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
