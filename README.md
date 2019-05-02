@@ -1,2 +1,2 @@
-# Heritage_Structure_Defects
+# Heritage_Structure-Defects
 1320 Image dataset
