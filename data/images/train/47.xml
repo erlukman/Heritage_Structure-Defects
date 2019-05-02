@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>47.jpg</filename>
+	<path>D:\PhD\My Research\Research Performance Seminar-II\Data\1\47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spalling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>149</ymin>
+			<xmax>509</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Spalling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>108</ymin>
+			<xmax>608</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

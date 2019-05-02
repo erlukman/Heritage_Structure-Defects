@@ -1,0 +1,38 @@
+<annotation>
+	<folder>1</folder>
+	<filename>38.jpg</filename>
+	<path>D:\PhD\My Research\Research Performance Seminar-II\Data\1\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>262</ymin>
+			<xmax>489</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>329</ymin>
+			<xmax>757</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>
