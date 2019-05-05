@@ -1,0 +1,50 @@
+<annotation>
+	<folder>3</folder>
+	<filename>453.jpg</filename>
+	<path>D:\PhD\MISSION\MISSION - 3 Autmated Damage Detection\Data\Defect Dataset\3\453.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Exposed Bricks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>67</ymin>
+			<xmax>556</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Spalling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>110</ymin>
+			<xmax>508</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Spalling</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>469</xmin>
+			<ymin>437</ymin>
+			<xmax>543</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

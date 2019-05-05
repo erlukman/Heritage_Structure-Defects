@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>499.jpg</filename>
+	<path>D:\PhD\MISSION\MISSION - 3 Autmated Damage Detection\Data\Defect Dataset\3\499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>251</ymin>
+			<xmax>533</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>
